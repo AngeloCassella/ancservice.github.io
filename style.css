@@ -24,6 +24,9 @@ h1{
     background-clip: padding-box;
 }
 
+.contenitore{
+    display: flex;
+}
 
 button {
     background-color: rgb(125, 191, 190);
